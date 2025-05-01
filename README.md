@@ -6,7 +6,7 @@
 
 -📫 Reach out: siddhibsawant2212@gmail.com
 
--📄 Peek into my journey: [Portfolio](https://siddhiportfolio.vercel.app/)
+-📄 Peek into my journey: [Portfolio](https://portfolio-siddhi.vercel.app/)
 
 -💡 Motto: "Build it, break it, fix it — repeat until perfect."
 <!-- <h3 align="left">Connect with me:</h3>
@@ -28,7 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
  
-  <a href="https://siddhiportfolio.vercel.app/" target="_blank">
+  <a href="https://portfolio-siddhi.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" />
   </a>
 </p>
