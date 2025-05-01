@@ -6,7 +6,7 @@
 
 -📫 Reach out: siddhibsawant2212@gmail.com
 
--📄 Peek into my journey: My Resume
+-📄 Peek into my journey: [Portfolio](https://siddhiportfolio.vercel.app/)
 
 -💡 Motto: "Build it, break it, fix it — repeat until perfect."
 <!-- <h3 align="left">Connect with me:</h3>
