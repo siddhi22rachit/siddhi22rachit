@@ -18,7 +18,7 @@
   <br>
   <strong style="font-size: 24px; font-family: 'Outfit', sans-serif;">I'm SIDDHI SAWANT</strong>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&center=true&vCenter=true&width=435&color=F76E6E&lines=Hi,+I'm+an+IT+Engineer;I'm+a+Software+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Freelancer;I'm+a+Home+Baker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&center=true&vCenter=true&width=435&color=F76E6E&lines=Hi,+I'm+an+IT+Engineer;I'm+a+Software+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Editor;I'm+a+Home+Baker" alt="Typing SVG" />
   <br>
   <a href="https://github.com/siddhi22rachit" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
