@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coder GIF" height=310 width=400 src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
 
--🌱  Diving into Angular (and loving the chaos!), and sharpening my DSA skills 
+-🌱  Looking for a Job and enjoying the whole process
 
 -📫 Reach out: siddhibsawant2212@gmail.com
 
